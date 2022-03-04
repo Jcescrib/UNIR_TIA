@@ -1,0 +1,383 @@
+﻿ParentLocation;SpatialDimValueCode;Country;Year;GDP;perCapita;Doctores;Enfermeras;Farmaceuticos;DomesticPrivHealth
+Eastern Mediterranean;AFG;Afghanistan;2018;14,13;70;2,97;4,46;0,29;76,32
+Eastern Mediterranean;AFG;Afghanistan;2016;11,82;60,19;2,78;1,48;0,47;75,97
+Eastern Mediterranean;AFG;Afghanistan;2015;10,11;58,91;2,85;1,3;0,5;78,38
+Africa;DZA;Algeria;2018;6,16;256,01;17,19;15,48;4,45;34,13
+Europe;AND;Andorra;2015;6,28;2246,25;33,33;40,13;10,13;31,01
+Africa;AGO;Angola;2018;2,54;87,31;2,14;4,08;0,75;54,59
+Europe;ARM;Armenia;2015;10,12;364,97;29,14;49,54;0,49;83
+Western Pacific;AUS;Australia;2019;9,91;5427,46;38,5;131,4;8,97;28,32
+Western Pacific;AUS;Australia;2018;9,16;5364,54;37,6;128,1;8,86;31,22
+Western Pacific;AUS;Australia;2017;9,27;5340,36;36,78;125,5;8,81;31,31
+Western Pacific;AUS;Australia;2016;9,25;4993,69;35,67;124,1;8,64;31,47
+Western Pacific;AUS;Australia;2015;9,33;4862,6;34,89;122;8,47;31,56
+Europe;AUT;Austria;2019;10,43;5242,18;52,73;105,6;7,24;26,99
+Europe;AUT;Austria;2018;10,32;5322,26;52,11;70,89;7,14;27,41
+Europe;AUT;Austria;2017;10,38;4938,92;51,7;70,9;7,08;28,3
+Europe;AUT;Austria;2016;10,35;4709,88;51,23;70,18;7,08;27,64
+Europe;AUT;Austria;2015;10,37;4612,82;51,04;70,14;7,03;27,54
+Eastern Mediterranean;BHR;Bahrain;2015;4,99;1128,76;9,26;24,94;1,62;35,12
+South-East Asia;BGD;Bangladesh;2018;2,51;41,9;5,81;3,96;1,81;76,49
+South-East Asia;BGD;Bangladesh;2017;2,43;37,41;5,43;3,16;1,61;76,54
+South-East Asia;BGD;Bangladesh;2015;2,64;32,85;4,86;2,75;0,78;74,34
+Europe;BLR;Belarus;2015;6,07;362,75;51,91;110;3,63;38,82
+Europe;BEL;Belgium;2019;10,66;4960,39;31,5;197,5;12,61;23,22
+Europe;BEL;Belgium;2018;10,76;5134,41;31,15;117,4;12,44;23,18
+Europe;BEL;Belgium;2017;10,78;4775,81;30,71;118,7;12,33;22,68
+Europe;BEL;Belgium;2016;10,77;4534,23;30,68;119,8;12,22;22,77
+Europe;BEL;Belgium;2015;10,43;4291,49;30,14;118,1;12,09;24,09
+Americas;BLZ;Belize;2017;5,79;282,55;11,23;23,92;6,76;29,74
+Africa;BEN;Benin;2018;2,5;31,07;0,79;3,89;0,27;50,35
+Africa;BEN;Benin;2016;2,74;29,79;0,48;7,6;0,012;48,45
+South-East Asia;BTN;Bhutan;2019;3,61;115,98;4,6;18,29;0,6;19,47
+South-East Asia;BTN;Bhutan;2018;3,24;102,74;4,24;18,52;0,57;14,4
+South-East Asia;BTN;Bhutan;2017;3,34;104,86;4,02;16,35;0,5;14,31
+South-East Asia;BTN;Bhutan;2016;3,58;98,91;4,06;15,33;0,31;21,29
+South-East Asia;BTN;Bhutan;2015;3,76;98,56;3,45;14,7;0,21;20,67
+Americas;BOL;Bolivia (Plurinational State of);2016;6,83;210,24;15,9;11,18;2,25;31,94
+Europe;BIH;Bosnia and Herzegovina;2015;9,35;442,04;21,62;61,8;1,29;29,09
+Africa;BWA;Botswana;2018;5,97;494,2;3,78;54,57;2,16;15,19
+Americas;BRA;Brazil;2017;9,47;940,37;21,65;97,37;6,83;58,2
+Western Pacific;BRN;Brunei Darussalam;2015;2,39;743,92;17,81;66,43;1,71;4,97
+Europe;BGR;Bulgaria;2015;7,41;521,42;40,33;48,16;8,36;44,1
+Africa;BFA;Burkina Faso;2019;5,46;42,34;0,94;9,27;0,15;42,39
+Africa;BFA;Burkina Faso;2017;6,03;44,51;0,85;8,83;0,15;38,7
+Africa;BFA;Burkina Faso;2016;5,96;40,98;0,65;6,59;0,13;36,44
+Africa;BFA;Burkina Faso;2015;5,13;33,53;0,66;6,7;0,14;46,95
+Africa;BDI;Burundi;2018;8,24;22,41;0,97;8,19;0,11;39,64
+Africa;CPV;Cabo Verde;2018;5,27;190,46;8,31;12,98;3,16;29,67
+Africa;CPV;Cabo Verde;2016;4,85;151,75;7,68;11,52;0,075;31,33
+Africa;CMR;Cameroon;2018;3,47;53,17;1,29;3,63;0,006;85,22
+Americas;CAN;Canada;2019;10,84;5048,37;24,43;113,7;11,69;29,83
+Americas;CAN;Canada;2018;10,81;5018,71;24,25;99,87;10,33;29,83
+Africa;CAF;Central African Republic;2018;11;53,69;0,72;2,56;0,077;42,36
+Africa;CAF;Central African Republic;2015;5,03;19;0,72;2,06;0,045;49,54
+Africa;TCD;Chad;2019;4,35;29,85;0,54;1,36;0,033;62,25
+Africa;TCD;Chad;2018;4,17;29,7;0,52;3,1;0,17;67,85
+Africa;TCD;Chad;2017;4,56;30,6;0,43;2,32;0,047;64,41
+Africa;TCD;Chad;2015;4,52;35,11;0,49;2,53;0,056;61,71
+Americas;CHL;Chile;2019;9,33;1375,8;26,61;47,89;5,53;49,08
+Americas;CHL;Chile;2018;9,16;1455,12;25,91;133,2;5,26;49,18
+Americas;CHL;Chile;2017;9,07;1360,17;24,41;123,3;4,94;49,6
+Americas;CHL;Chile;2016;8,52;1171,62;22,94;112;4,7;50,35
+Americas;CHL;Chile;2015;8,3;1127,02;21,47;108,4;4,43;51,98
+Western Pacific;CHN;China;2017;5,07;437,26;19,8;26,62;3,17;43,33
+Western Pacific;CHN;China;2015;4,94;390,1;17,73;22,91;2,99;39,81
+Americas;COL;Colombia;2019;7,71;495,33;22,52;13,91;1,68;28,12
+Americas;COL;Colombia;2018;7,63;513,16;21,85;68,73;1,6;28,39
+Americas;COL;Colombia;2017;7,68;489,64;21,06;12,71;1,51;28,96
+Americas;COL;Colombia;2016;7,53;442,14;20,34;12,22;1,46;29,67
+Americas;COL;Colombia;2015;7,52;464,63;19,74;11,65;1,39;29,17
+Africa;COM;Comoros;2018;4,9;69,42;2,64;14,83;0,66;71,24
+Africa;COG;Congo;2018;1,94;49,46;1,04;9,69;0,3;59,2
+Africa;COG;Congo;2016;2,79;56,93;1,06;9,31;0,15;51,73
+Americas;CRI;Costa Rica;2016;7,32;878,89;28,44;30,05;7,3;26,65
+Americas;CRI;Costa Rica;2015;7,59;883,92;27,32;26,58;7,26;27,29
+Europe;HRV;Croatia;2015;6,79;795,52;31,73;61,92;7,19;16,9
+Europe;CYP;Cyprus;2015;6,75;1581,41;26,24;40,35;6,46;56,58
+Europe;CZE;Czechia;2019;7,83;1844,22;40,6;89,34;7,19;18,5
+Europe;CZE;Czechia;2018;7,52;1765,59;40,24;88,79;6,89;17,3
+Europe;CZE;Czechia;2017;7,14;1475,92;40,68;88,36;6,87;18,23
+Europe;CZE;Czechia;2016;7,11;1321,62;40,19;82,59;6,75;18,12
+Europe;CZE;Czechia;2015;7,2;1284,05;39,52;83,71;6,57;17,77
+Africa;COD;Democratic Republic of the Congo;2018;3,3;18,52;3,75;11,1;0,2;49,7
+Europe;DNK;Denmark;2018;10,07;6216,77;42,25;105,4;5,44;16,12
+Europe;DNK;Denmark;2017;10,04;5800,15;41,32;104,4;5,34;15,98
+Europe;DNK;Denmark;2016;10,14;5565,59;40,1;103,2;5,22;15,88
+Europe;DNK;Denmark;2015;10,23;5469,33;39,26;102,4;5,15;15,82
+Americas;DOM;Dominican Republic;2019;5,93;491,06;14,52;14,59;1,18;54,27
+Americas;ECU;Ecuador;2015;7,49;458,81;20,65;25,12;0,42;42,2
+Eastern Mediterranean;EGY;Egypt;2018;4,95;125,55;7,69;19,26;4,57;70,6
+Eastern Mediterranean;EGY;Egypt;2017;5,63;113,98;7,99;19,27;4,36;68,71
+Eastern Mediterranean;EGY;Egypt;2016;5,36;153,49;8,21;19,25;4,04;68,12
+Eastern Mediterranean;EGY;Egypt;2015;5,34;183,43;8,22;19,41;3,96;68,55
+Africa;ERI;Eritrea;2018;4,13;23,98;0,81;14,4;1,31;48,9
+Europe;EST;Estonia;2019;6,73;1598,82;34,72;66,08;7,17;25,56
+Europe;EST;Estonia;2018;6,69;1552,63;34,81;66,32;7,22;26,36
+Europe;EST;Estonia;2017;6,59;1350,38;34,63;65,27;7,25;26,47
+Europe;EST;Estonia;2016;6,43;1186,1;34,55;64,33;7,32;24,41
+Europe;EST;Estonia;2015;6,35;1112,91;34,15;63,52;7,21;24,47
+Africa;SWZ;Eswatini;2018;7,26;298,12;2,45;41,42;2,47;22,08
+Africa;ETH;Ethiopia;2018;3,31;24,29;0,77;7,14;0,98;40,6
+Western Pacific;FJI;Fiji;2015;3,32;179,22;8,6;30,18;1,09;34,33
+Europe;FIN;Finland;2018;9,04;4515,68;46,4;223,1;19,25;21,44
+Europe;FIN;Finland;2017;9,13;4233,47;45,89;219,3;18,94;21,98
+Europe;FIN;Finland;2016;9,38;4107,06;45,34;215,5;18,63;22,17
+Europe;FIN;Finland;2015;9,65;4127,15;33,31;213,4;18,51;21,44
+Europe;FRA;France;2019;11,06;4491,74;32,74;117,8;10,61;24,69
+Europe;FRA;France;2018;11,19;4657,75;32,4;114,7;10,62;24,07
+Europe;FRA;France;2017;11,33;4402,08;32,39;111,6;10,69;24,14
+Europe;FRA;France;2016;11,47;4257,15;32,21;108,9;10,8;24,87
+Europe;FRA;France;2015;11,45;4201,56;32,07;106;10,9;27,63
+Africa;GAB;Gabon;2018;2,75;218,48;6,46;28,71;1,07;40,18
+Africa;GAB;Gabon;2017;2,78;201,06;6,82;29,46;0,59;36,11
+Africa;GAB;Gabon;2016;3,11;217,06;3,56;25,44;0,23;34,62
+Africa;GMB;Gambia;2018;4,89;35,81;1,31;6,57;0,35;21,95
+Africa;GMB;Gambia;2015;3,18;20,99;1,02;15,45;0,024;33,62
+Europe;GEO;Georgia;2019;6,66;291,12;70,78;52,16;0,94;58,66
+Europe;GEO;Georgia;2018;7,11;312,75;71,2;47,29;0,99;60
+Europe;GEO;Georgia;2017;7,06;285,99;61,3;48,56;1,24;60,4
+Europe;GEO;Georgia;2016;8;301,55;59,97;40;1,08;61,1
+Europe;GEO;Georgia;2015;7,42;275,84;50,06;40,17;0,78;61,89
+Europe;DEU;Germany;2019;11,7;5440,25;43,72;141,9;6,64;22,27
+Europe;DEU;Germany;2018;11,45;5481,99;43;140,6;6,56;22,43
+Europe;DEU;Germany;2017;11,33;5055,82;42,49;134;6,47;22,28
+Europe;DEU;Germany;2016;11,24;4744,23;41,94;131,4;6,38;22,72
+Europe;DEU;Germany;2015;11,18;4624,56;41,34;129,1;6,43;23,03
+Africa;GHA;Ghana;2019;3,42;75,28;1,06;27,11;0,37;48,48
+Africa;GHA;Ghana;2018;3,49;76,83;1,48;45,52;0,31;49,52
+Africa;GHA;Ghana;2017;3,36;68,03;0,92;23,41;0,25;54,11
+Africa;GHA;Ghana;2016;3,46;66,86;1,27;21,16;0,2;48,85
+Europe;GRC;Greece;2019;7,84;1500,59;63,07;37,34;10,85;51,74
+Europe;GRC;Greece;2018;7,96;1572,68;62,26;37,02;10,36;48,2
+Europe;GRC;Greece;2017;8,1;1505,95;61,73;36,33;10,65;47,71
+Europe;GRC;Greece;2016;8,32;1488,2;62,15;35,53;10,65;47,62
+Europe;GRC;Greece;2015;8,07;1452,05;59,91;35,01;10,6;41,49
+Americas;GTM;Guatemala;2018;6,12;259,62;3,55;12,83;0,039;62,31
+Africa;GIN;Guinea;2018;3,64;35,71;2,25;5,8;0,21;72,69
+Africa;GIN;Guinea;2016;5,4;39,52;0,83;1,24;0,091;60,47
+Africa;GIN;Guinea;2015;5,81;44,69;0,86;4,17;0,12;69,15
+Africa;GNB;Guinea-Bissau;2018;7,63;61,24;1,7;6,85;0,44;66,99
+Africa;GNB;Guinea-Bissau;2016;8,33;58,18;1,27;5,94;0,028;67,49
+Americas;GUY;Guyana;2018;4,9;301,45;18,19;10,4;0,09;36,67
+Americas;HTI;Haiti;2018;4,57;63,14;2,34;3,98;0,3;49,7
+Europe;HUN;Hungary;2019;6,35;1062,39;35,25;69,2;8,39;32,02
+Europe;HUN;Hungary;2018;6,55;1074,02;34,08;69,16;8,08;30,44
+Europe;HUN;Hungary;2017;6,76;985,8;33,45;68,04;7,77;31,66
+Europe;HUN;Hungary;2016;7;914,19;32,31;66,43;7,54;32,29
+Europe;HUN;Hungary;2015;6,86;870,52;31,18;66,85;7,2;32,21
+Europe;ISL;Iceland;2019;8,64;6274,96;41,42;171,9;5,72;17,11
+Europe;ISL;Iceland;2018;8,44;6565,88;40,78;162,1;5,41;17,53
+Europe;ISL;Iceland;2017;8,31;6144,55;39,77;157,1;5,11;18,03
+Europe;ISL;Iceland;2016;8,1;5068,1;38,89;151,6;5;18,49
+Europe;ISL;Iceland;2015;8,07;4280,49;37,83;163,1;4,85;19,19
+South-East Asia;IND;India;2018;2,95;60,27;6,86;17,27;8,87;69,08
+South-East Asia;IDN;Indonesia;2019;2,9;120,12;4,65;38,07;0,82;50,51
+South-East Asia;IDN;Indonesia;2018;2,87;111,66;4,24;31,15;0,85;50,92
+South-East Asia;IDN;Indonesia;2017;2,9;111,45;3,77;20,53;1,73;52,83
+South-East Asia;IDN;Indonesia;2015;2,92;97,43;2,74;12,99;1,17;59,91
+Eastern Mediterranean;IRN;Iran (Islamic Republic of);2018;8,46;484,29;15,84;20,77;2,93;54,05
+Eastern Mediterranean;IRN;Iran (Islamic Republic of);2017;8,43;481,58;11,29;26,29;2,36;48,41
+Eastern Mediterranean;IRN;Iran (Islamic Republic of);2015;7,54;377,84;11,53;18,91;2,02;48,11
+Eastern Mediterranean;IRQ;Iraq;2018;4,24;239,41;7,08;20,45;3,27;51,37
+Eastern Mediterranean;IRQ;Iraq;2017;4,19;214,36;8,38;18,13;2,91;58,06
+Eastern Mediterranean;IRQ;Iraq;2016;3,49;159,74;8,54;17,15;2,64;79,15
+Europe;IRL;Ireland;2019;6,68;5428,59;33,52;179,8;10,85;25,42
+Europe;IRL;Ireland;2018;6,86;5484,22;33,13;130,1;12,56;25,87
+Europe;IRL;Ireland;2017;7,06;5010,26;32,95;145,4;11,62;27,02
+Europe;IRL;Ireland;2016;7,42;4709,17;32,32;117,1;11,47;27,28
+Europe;IRL;Ireland;2015;7,32;4561,39;31,52;124,8;11,16;27,99
+Europe;ISR;Israel;2019;7,46;3456,39;35,78;55,89;8,18;33,14
+Europe;ISR;Israel;2018;7,53;3329,23;35,3;55,83;8,39;33,46
+Europe;ISR;Israel;2017;7,29;3118,43;34,79;56,22;8,01;34,74
+Europe;ISR;Israel;2016;7,17;2818,51;34,64;55,06;7,11;35,35
+Europe;ISR;Israel;2015;7,1;2670,47;34,63;53,73;6,81;35,18
+Europe;ITA;Italy;2019;8,67;2905,5;39,96;63,57;12,39;26,08
+Europe;ITA;Italy;2018;8,68;3000,71;39,64;60;11,87;26,16
+Europe;ITA;Italy;2017;8,68;2809,72;39,81;60,61;11,69;26,26
+Europe;ITA;Italy;2016;8,73;2699,73;39,5;58,36;11,55;25,6
+Europe;ITA;Italy;2015;8,86;2675,67;38,48;57,15;11,55;25,56
+Americas;JAM;Jamaica;2018;5,97;319,88;5,27;9,43;0,15;33,34
+Americas;JAM;Jamaica;2016;5,7;276,14;4,55;16,07;0,22;34,83
+Americas;JAM;Jamaica;2015;5,62;276,06;4,15;14,51;0,28;35,33
+Western Pacific;JPN;Japan;2018;10,75;4256,1;24,8;119,5;18,9;16,23
+Western Pacific;JPN;Japan;2016;10,66;4174,42;24,12;115,2;18,02;15,96
+Eastern Mediterranean;JOR;Jordan;2019;7,58;334,04;26,61;33,47;10,43;45,69
+Eastern Mediterranean;JOR;Jordan;2017;7,98;337,76;23,24;33,6;16,01;45,9
+Europe;KAZ;Kazakhstan;2015;3,04;319,05;39,68;72,94;8,14;36,77
+Africa;KEN;Kenya;2018;4,31;73,54;1,57;11,66;0,19;34,74
+Western Pacific;LAO;Lao People's Democratic Republic;2017;2,53;62;3,73;12,11;2,46;48,14
+Europe;LVA;Latvia;2019;6,58;1166,8;32,8;48,28;8,46;39,17
+Europe;LVA;Latvia;2018;6,19;1101,49;33,02;45,57;8,56;40,12
+Europe;LVA;Latvia;2017;5,97;932,5;31,91;47,52;9,48;42,67
+Europe;LVA;Latvia;2016;6,14;874,8;31,89;48,06;8,32;44,12
+Europe;LVA;Latvia;2015;5,65;775,86;31,66;48,36;7,88;41,34
+Eastern Mediterranean;LBN;Lebanon;2018;8,67;695,06;21,04;16,74;12,93;49,04
+Eastern Mediterranean;LBN;Lebanon;2017;7,79;606,84;20,26;16,42;12,27;51,04
+Eastern Mediterranean;LBN;Lebanon;2016;7,91;603,62;20,12;15,72;11,79;51,08
+Eastern Mediterranean;LBN;Lebanon;2015;7,41;566,8;21,03;15,42;11,62;51,95
+Africa;LSO;Lesotho;2018;10,9;124,69;4,73;32,57;1,89;14,53
+Africa;LBR;Liberia;2018;9,04;61,22;0,51;19,54;2,22;56,38
+Europe;LTU;Lithuania;2019;7,01;1369,98;46,27;81,62;9,74;34,55
+Europe;LTU;Lithuania;2018;6,53;1249,03;45,98;81,89;10,28;33,7
+Europe;LTU;Lithuania;2017;6,48;1083,3;45,29;79,8;9,85;34,69
+Europe;LTU;Lithuania;2016;6,64;988,53;44,34;79,67;11,34;34,01
+Europe;LTU;Lithuania;2015;6,49;920,2;42,99;79,03;10,89;33,62
+Europe;LUX;Luxembourg;2017;5,26;5713,12;30,07;121,7;7,03;13,84
+Europe;LUX;Luxembourg;2016;5,19;5475,14;29,05;121,6;7,01;14,24
+Europe;LUX;Luxembourg;2015;5,28;5421,93;29,22;123,3;7,01;14,11
+Africa;MDG;Madagascar;2018;4,2;22,34;1,99;2,98;0,13;35,14
+Africa;MWI;Malawi;2018;9,83;37,43;1,52;4,39;0,21;18,12
+Western Pacific;MYS;Malaysia;2015;3,82;380,11;15,36;41,83;3,47;46,74
+South-East Asia;MDV;Maldives;2019;8,04;854,37;20,53;48,08;5,59;19,05
+South-East Asia;MDV;Maldives;2018;7,65;786,44;17,08;64,28;3,47;21,87
+South-East Asia;MDV;Maldives;2017;9,24;885,08;17,49;64,93;4,8;28,46
+Africa;MLI;Mali;2018;3,73;33,4;1,29;4,41;0,095;34,16
+Africa;MLI;Mali;2016;3,77;29,46;1,25;4,13;0,11;37,74
+Europe;MLT;Malta;2015;8,9;2243,47;28,6;83,7;12,87;39,16
+Africa;MRT;Mauritania;2018;3,58;57,3;1,87;9,25;0,18;51,46
+Africa;MUS;Mauritius;2018;5,87;656,62;18,9;39,35;5,9;55,56
+Africa;MUS;Mauritius;2017;5,81;609,17;23,15;35,15;4,2;55,46
+Africa;MUS;Mauritius;2016;5,71;553,21;21,94;32,76;4,07;55,66
+Africa;MUS;Mauritius;2015;5,7;529,16;20,25;33,83;3,95;55,73
+Western Pacific;MNG;Mongolia;2018;3,85;159,38;38,52;42,14;6,81;37,28
+Western Pacific;MNG;Mongolia;2015;4,24;166,08;32,19;40,93;5,02;39,23
+Europe;MNE;Montenegro;2019;8,33;735,16;27,2;52,58;2,02;39,16
+Europe;MNE;Montenegro;2018;8,34;731,48;27,56;52,29;1,91;40,45
+Europe;MNE;Montenegro;2017;7,98;616,28;26,43;50,99;1,74;42,6
+Europe;MNE;Montenegro;2016;8,63;601,98;25,76;50,01;1,72;39,88
+Europe;MNE;Montenegro;2015;9,02;583,29;23,76;50,02;1,74;40,19
+Eastern Mediterranean;MAR;Morocco;2017;5,23;161,36;7,31;13,89;2,6;56,78
+Africa;MOZ;Mozambique;2019;7,83;39,46;0,85;4,73;0,13;16
+Africa;MOZ;Mozambique;2018;8,09;40,73;0,84;4,81;0,1;15,32
+Africa;MOZ;Mozambique;2017;7,76;35,8;0,76;4,81;0,089;15,85
+South-East Asia;MMR;Myanmar;2019;4,68;60,02;7,37;10,82;0,78;75,96
+South-East Asia;MMR;Myanmar;2018;4,9;59,21;6,77;9,99;0,74;76,45
+Africa;NAM;Namibia;2018;8,31;464,48;5,9;19,54;2,44;48,77
+Western Pacific;NRU;Nauru;2015;13,74;1033,65;13,46;67,31;1,92;4,43
+South-East Asia;NPL;Nepal;2019;4,45;53,25;8,09;33,05;1,35;63,28
+South-East Asia;NPL;Nepal;2018;4,53;51,14;7,49;31,08;0,93;62,9
+South-East Asia;NPL;Nepal;2017;4,72;50,31;9,1;28,48;0,98;62,02
+Europe;NLD;Netherlands;2019;10,13;5335,3;37,69;110,8;2,17;34,07
+Europe;NLD;Netherlands;2018;10,03;5336,98;37,09;115,2;2,12;34,2
+Europe;NLD;Netherlands;2017;10,11;4934,58;36,27;112,5;2,1;35,66
+Europe;NLD;Netherlands;2016;10,29;4753,67;35,47;109,3;2,15;34,5
+Europe;NLD;Netherlands;2015;10,32;4676,56;34,92;107,5;2,13;33,92
+Western Pacific;NZL;New Zealand;2019;9,74;4211,05;35,15;112,4;7,29;24,44
+Western Pacific;NZL;New Zealand;2018;9,21;4037,46;34,21;111,2;7,19;25,17
+Western Pacific;NZL;New Zealand;2017;9,02;3940,39;33,3;109,3;6,8;24,54
+Western Pacific;NZL;New Zealand;2016;9,24;3746,48;31,52;109,1;6,76;25,45
+Western Pacific;NZL;New Zealand;2015;9,28;3582,27;30,3;107,7;6,66;25,31
+Africa;NER;Niger;2018;5,29;30,27;0,16;2,23;0,027;54,88
+Africa;NER;Niger;2016;4,53;22,57;0,33;2,7;0,012;60,95
+Africa;NER;Niger;2015;5,35;25,89;0,32;2,04;0,025;54,66
+Africa;NGA;Nigeria;2018;3,09;66,55;3,81;9,26;1,26;76,52
+Europe;NOR;Norway;2019;10,52;8007,4;49,4;183,3;8,54;14,18
+Europe;NOR;Norway;2018;10,02;8271,86;48,34;182,1;8,28;14,3
+Europe;NOR;Norway;2017;10,32;7815,79;47,18;181,5;8,03;14,88
+Europe;NOR;Norway;2016;10,59;7496,77;45,68;179,8;7,83;14,62
+Europe;NOR;Norway;2015;10,13;7565,55;44,43;178,4;7,44;14,49
+Eastern Mediterranean;OMN;Oman;2019;4,07;624,74;19,3;40,85;5,31;13,56
+Eastern Mediterranean;OMN;Oman;2018;4,1;677,96;20,03;41,97;5,57;12,34
+Eastern Mediterranean;OMN;Oman;2017;3,97;600,79;19,57;42,73;5,24;12,79
+Eastern Mediterranean;OMN;Oman;2016;4,36;636,89;19,25;44,12;5,4;11,11
+Eastern Mediterranean;OMN;Oman;2015;4,3;695,19;20,89;45,3;4,99;10,58
+Eastern Mediterranean;PAK;Pakistan;2019;3,38;39,5;11,18;4,83;1,55;60,92
+Eastern Mediterranean;PAK;Pakistan;2018;3,2;42,87;9,8;9,57;1,58;63,67
+Eastern Mediterranean;PAK;Pakistan;2017;2,9;42,26;10,01;5,99;1,61;66,67
+Americas;PAN;Panama;2019;7,58;1192,82;16,32;32,06;2,24;33,79
+Americas;PAN;Panama;2018;7,28;1131,66;16,06;30,74;2,09;35,42
+Americas;PAN;Panama;2017;6,91;1046,34;15,86;30,87;2,08;35,91
+Americas;PAN;Panama;2016;7,32;1050,24;15,7;29,86;1,96;34,32
+Americas;PAN;Panama;2015;6,81;928,1;15,76;27,62;1,77;36,72
+Western Pacific;PNG;Papua New Guinea;2018;2,27;63,49;0,7;5,43;0,13;9,74
+Americas;PRY;Paraguay;2018;6,72;390,05;13,54;16,6;0,32;55,02
+Americas;PER;Peru;2018;5,2;365,86;13,69;29,77;1,03;38,3
+Western Pacific;PHL;Philippines;2017;3,96;123,69;6;52,74;3,31;60,37
+Europe;POL;Poland;2017;6,56;909,58;23,79;57,03;7,73;31,15
+Europe;POL;Poland;2016;6,53;813,47;24,15;57,58;7,7;31,17
+Europe;POL;Poland;2015;6,39;803,96;23,25;57,8;7,39;30,63
+Europe;PRT;Portugal;2019;9,53;2221,44;54,84;74,1;9,37;39,02
+Europe;PRT;Portugal;2018;9,41;2216,31;53,12;71,81;9,12;38,77
+Europe;PRT;Portugal;2017;9,31;1998,06;51,24;69,57;9,08;38,77
+Europe;PRT;Portugal;2016;9,39;1875,24;49,4;67,3;8,51;38,34
+Europe;PRT;Portugal;2015;9,32;1790,53;47,49;65,32;8,4;38,27
+Eastern Mediterranean;QAT;Qatar;2018;2,63;1730,18;24,85;71,97;8,89;28,41
+Eastern Mediterranean;QAT;Qatar;2016;3,25;1856,36;26,94;49,55;10,39;19,61
+Western Pacific;KOR;Republic of Korea;2019;8,16;2624,53;24,84;81,78;7,6;40,47
+Western Pacific;KOR;Republic of Korea;2018;7,54;2543,6;24,08;74,63;7,39;41,54
+Western Pacific;KOR;Republic of Korea;2017;7,11;2257,52;23,61;71,48;7,24;42,09
+Western Pacific;KOR;Republic of Korea;2016;6,91;2033,85;23,04;70,23;6,66;42,48
+Western Pacific;KOR;Republic of Korea;2015;6,65;1919,04;22,49;59,84;6,53;42,64
+Europe;MDA;Republic of Moldova;2019;6,38;284,31;25,59;39,33;4,49;36,91
+Europe;MDA;Republic of Moldova;2017;7,01;243,95;32,07;49,24;4,05;44,69
+Europe;ROU;Romania;2017;5,15;555,11;29,81;73,89;9,07;21,41
+Europe;ROU;Romania;2016;5;476,25;22,57;60,92;9,29;21,82
+Africa;RWA;Rwanda;2018;6,68;52,3;1,34;12,04;0,72;25,58
+Africa;RWA;Rwanda;2015;6,62;49,98;1,13;9,88;0,1;26,16
+Americas;LCA;Saint Lucia;2017;4,66;514,56;6,41;31,55;4,37;55,16
+Africa;STP;Sao Tome and Principe;2019;5,53;108,45;4,88;21,49;1,72;19,22
+Eastern Mediterranean;SAU;Saudi Arabia;2018;5,75;1341,52;26,12;54,76;8,64;29,7
+Eastern Mediterranean;SAU;Saudi Arabia;2017;6,26;1302,77;25,37;43,99;7,59;28,15
+Eastern Mediterranean;SAU;Saudi Arabia;2016;5,84;1160,05;23,78;56,71;7,86;33,29
+Africa;SEN;Senegal;2019;4,13;59,1;0,88;5,4;0,12;57,03
+Africa;SEN;Senegal;2017;4;54,43;0,69;3,13;0,11;59,89
+Africa;SEN;Senegal;2016;4,26;54,11;0,77;3;0,11;57,6
+Africa;SEN;Senegal;2015;4,38;53,43;2,07;1,92;0,098;57,41
+Europe;SRB;Serbia;2016;8,46;486,43;31,13;60,86;8,11;41,99
+Africa;SYC;Seychelles;2018;5,27;840,28;24,72;229,5;12,77;25,79
+Africa;SYC;Seychelles;2016;5,19;772,45;21,21;80,77;4,7;26,93
+Africa;SLE;Sierra Leone;2018;8,29;44,27;0,74;7,53;0,2;61,86
+Western Pacific;SGP;Singapore;2016;4,39;2476,17;22,94;61,68;5,09;52,66
+Europe;SVK;Slovakia;2019;6,96;1342,07;35,65;60,55;8,18;21,18
+Europe;SVK;Slovakia;2018;6,71;1299,91;35,17;60,16;7,99;20,79
+Europe;SVK;Slovakia;2017;6,77;1189,07;34,16;59,6;7,79;20,96
+Europe;SVK;Slovakia;2016;7,11;1175,6;34,66;60,67;7,69;20,04
+Europe;SVK;Slovakia;2015;6,79;1108,88;34,44;60,09;7,04;21,26
+Europe;SVN;Slovenia;2019;8,52;2219,1;32,77;104,6;7,29;27,63
+Europe;SVN;Slovenia;2018;8,28;2169,58;31,72;102,4;7,06;27,59
+Europe;SVN;Slovenia;2017;8,19;1925,03;30,86;99,75;6,85;28,2
+Europe;SVN;Slovenia;2016;8,46;1835,41;30,01;96,97;6,54;27,71
+Europe;SVN;Slovenia;2015;8,5;1775,86;28,15;88,24;6,25;28,65
+Africa;SSD;South Sudan;2018;6,28;26,7;0,37;3,4;0,33;26,55
+Europe;ESP;Spain;2019;9,13;2711,19;44,41;61,44;12,44;29,38
+Europe;ESP;Spain;2018;8,99;2740,27;40,3;60,8;11,92;29,73
+Europe;ESP;Spain;2017;8,96;2526,72;38,72;59,23;11,55;29,47
+Europe;ESP;Spain;2016;8,95;2376,72;38,11;56,85;12,04;28,45
+Europe;ESP;Spain;2015;9,13;2349,05;38,27;54,44;11,87;28,68
+South-East Asia;LKA;Sri Lanka;2019;4,08;160,7;11,54;22,6;0,85;51,42
+South-East Asia;LKA;Sri Lanka;2018;3,91;162,11;10,04;21,8;0,82;52,81
+South-East Asia;LKA;Sri Lanka;2017;3,6;148,79;9,28;19,97;0,77;56,06
+South-East Asia;LKA;Sri Lanka;2016;3,86;151,48;8,93;19,48;0,74;56,01
+South-East Asia;LKA;Sri Lanka;2015;3,89;149,96;8,62;19,61;0,72;54,67
+Europe;SWE;Sweden;2018;10,94;6005,07;44,06;118,5;8,03;15,22
+Europe;SWE;Sweden;2017;10,79;5837,77;43,34;118,3;7,8;15,29
+Europe;SWE;Sweden;2016;10,85;5680,73;42,71;117,9;7,77;15,74
+Europe;SWE;Sweden;2015;10,8;5598,68;41,9;117,5;7,71;16,04
+Europe;CHE;Switzerland;2019;11,29;9666,34;43,42;182,6;6,72;67,89
+Europe;CHE;Switzerland;2018;11,38;9870,66;43,33;178,9;6,9;68,78
+Europe;CHE;Switzerland;2017;11,48;9606,35;42,96;175,4;6,96;68,44
+Europe;CHE;Switzerland;2016;11,3;9439,42;42,47;173,3;7;69
+Europe;CHE;Switzerland;2015;11,01;9382,79;41,9;168,6;6,44;68,18
+South-East Asia;THA;Thailand;2019;3,79;296,17;9,19;31,52;6,31;28,23
+South-East Asia;THA;Thailand;2018;3,82;278,63;8,05;27,59;5,53;29,38
+South-East Asia;THA;Thailand;2017;3,84;253,41;8,08;29,57;4,18;27,95
+South-East Asia;THA;Thailand;2016;3,75;224,99;4,45;27,72;5,19;23,95
+South-East Asia;THA;Thailand;2015;3,67;214,21;4,65;23,68;1,78;24,77
+South-East Asia;TLS;Timor-Leste;2019;7,16;92,67;7,69;17,56;2,13;13,06
+South-East Asia;TLS;Timor-Leste;2018;7,61;93,65;7,22;16,68;1,89;12,52
+South-East Asia;TLS;Timor-Leste;2017;6,74;86,75;7,5;17,41;2,04;11,62
+South-East Asia;TLS;Timor-Leste;2015;7,67;102,23;6,95;14,82;0,084;11,28
+Africa;TGO;Togo;2019;5,73;51,16;0,78;4,64;0,28;75,81
+Africa;TGO;Togo;2018;6,09;54,89;0,77;4,1;0,27;73,75
+Africa;TGO;Togo;2017;6,49;53,95;0,76;4,2;0,28;68,84
+Americas;TTO;Trinidad and Tobago;2018;6,71;1143,17;54,07;41,42;6,64;51,55
+Americas;TTO;Trinidad and Tobago;2017;6,99;1131,28;33,65;56,78;6,71;47,71
+Eastern Mediterranean;TUN;Tunisia;2017;6,85;237,36;13,03;25,14;2,29;43,49
+Eastern Mediterranean;TUN;Tunisia;2016;6,61;244,43;12,83;26,58;2,29;44,63
+Eastern Mediterranean;TUN;Tunisia;2015;6,62;255,7;13,11;26,7;2,32;45,97
+Europe;TUR;Turkey;2019;4,34;396,47;19,28;30,45;4,06;22,08
+Europe;TUR;Turkey;2018;4,12;389,87;18,6;29,98;3,89;22,62
+Europe;TUR;Turkey;2017;4,18;442,62;18,49;27,11;3,52;22,29
+Europe;TUR;Turkey;2016;4,28;466,79;18,14;25,73;3,49;21,56
+Europe;TUR;Turkey;2015;4,12;453,12;17,99;26,22;3,51;21,87
+Africa;UGA;Uganda;2018;4,03;32,05;4,02;12,38;0,076;39,71
+Africa;UGA;Uganda;2015;5,11;39,37;0,95;15,57;0,012;41,92
+Eastern Mediterranean;ARE;United Arab Emirates;2019;4,28;1842,69;26,01;57,46;12,11;47,7
+Eastern Mediterranean;ARE;United Arab Emirates;2018;4,15;1817,35;25,28;57,27;8,79;48,42
+Eastern Mediterranean;ARE;United Arab Emirates;2017;4,06;1650,02;24,36;56,83;8,36;45,19
+Eastern Mediterranean;ARE;United Arab Emirates;2016;3,47;1322;23,71;55,31;7,34;27,87
+Eastern Mediterranean;ARE;United Arab Emirates;2015;3,58;1385,54;22,11;49,83;5,67;28,75
+Europe;GBR;United Kingdom of Great Britain and Northern Ireland;2019;10,15;4312,89;29,09;85,91;8,62;20,52
+Europe;GBR;United Kingdom of Great Britain and Northern Ireland;2018;9,9;4270,22;28,04;84,48;8,52;20,6
+Europe;GBR;United Kingdom of Great Britain and Northern Ireland;2017;9,81;3966,06;27,83;82,25;8,39;20,33
+Europe;GBR;United Kingdom of Great Britain and Northern Ireland;2016;9,87;4067,18;27,56;82,75;8,53;19,7
+Europe;GBR;United Kingdom of Great Britain and Northern Ireland;2015;9,9;4477,29;27,47;82,99;8,26;19,98
+Africa;TZA;United Republic of Tanzania;2018;4,15;42,04;0,51;5,67;0,33;21,65
+Western Pacific;VNM;Viet Nam;2016;4,52;124,06;8,28;14,46;3,39;50,27
+Western Pacific;VNM;Viet Nam;2015;4,57;117,86;7,96;14,23;3,4;56,03
+Africa;ZMB;Zambia;2018;5,03;76,31;1,17;10,23;0,98;16,63
+Africa;ZWE;Zimbabwe;2018;8,68;141,37;2,1;19,35;0,97;42,77
+Africa;ZWE;Zimbabwe;2017;7,47;115,65;1,86;25,97;0,19;45,28
+Africa;ZWE;Zimbabwe;2016;7,68;112,41;1,79;14;0,16;48,78
+Africa;ZWE;Zimbabwe;2015;7,45;107,69;1,82;13,83;0,1;54,93
